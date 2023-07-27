@@ -1,4 +1,4 @@
 ---
-permalink: /publications/
+permalink: /research/
 title: "Research and publications"
 ---
