@@ -13,14 +13,18 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Hanneke Woudenberg
-email: woudenberg@astro.rug.nl
-description: >- # this means to ignore newlines until "baseurl:"
-  Personal website of Hanneke Cornelia Woudenberg, first year PhD student in Galactic Archaeology and Dynamics at the Kapteyn Astronomical Instute in Groningen, the Netherlands. 
-twitter_username: hcwoudenberg
-github_username: HannekeWoudenberg
-minimal_mistakes_skin: dark
-search: true
+title:                  Hanneke Woudenberg
+subtitle:               # nothing at the moment
+email:                  woudenberg@astro.rug.nl
+description:            Personal website of Hanneke Cornelia Woudenberg. 
+twitter_username:       hcwoudenberg
+github_username:        HannekeWoudenberg
+minimal_mistakes_skin:  dark
+search:                 true
+url:                    https://hannekewoudenberg.github.io/
+repository:             /HannekeWoudenberg/hannekewoudenberg.github.io
+locale:                 en-GB
+
 
 # Build settings
 markdown: kramdown
