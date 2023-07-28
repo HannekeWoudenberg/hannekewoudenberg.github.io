@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Hanneke Cornelia Woudenberg"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/collection/bio-photo.jpg"
   bio    : "I'm a first year PhD student in Galactic Archaeology and Dynamics at the Kapteyn Astronomical Institute in Groningen, the Netherlands."
   links:
     - label: "Email"
