@@ -3,7 +3,9 @@ main:
     url: /home/
   - title: "Biography and CV"
     url: /cv_bio/
-  - title: "Research and publications"
+  - title: "Research"
     url: /research/
+  - title: "Publications"
+    url: /publications/
   - title: "Hobbies"
     url: /hobbies/
