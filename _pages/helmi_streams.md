@@ -14,4 +14,4 @@ These videos are part of a soon-to-be-submitted work that investigates the dynam
 <video width ="825" height="375" controls loop="" muted ="" autoplay="">
   <source src = "https://github.com/HannekeWoudenberg/hannekewoudenberg.github.io/raw/master/collection/movie_HStestparticles_pqgrid.mp4">
 </video>
-<sup><sub>This video is supplementary to Fig. 10 in the paper.</sub></sup>
+<sup><sub>This video is supplementary to Fig. 10 and Fig. E1 in the paper.</sub></sup>
