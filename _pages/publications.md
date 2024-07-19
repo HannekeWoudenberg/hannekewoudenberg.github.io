@@ -1,6 +1,7 @@
 ---
 permalink: /publications/
 title: "Publications"
+classes: wide
 ---
 
 The most up-to-date overview of the work I've been involved in so far can be found via <a href="[url](https://orcid.org/0000-0003-4314-5632)">ORCID</a>. Otherwise, here is a list publications:
