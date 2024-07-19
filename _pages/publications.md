@@ -7,11 +7,11 @@ An overview of the work I've been involved in so far can be found via <a href="[
 
 A Helmi Streams-like progenitor in Galactic potentials with a triaxial NFW halo 
 
-<video width ="1600" height="1600" controls loop="" muted ="" autoplay="">
+<video width ="400" height="400" controls loop="" muted ="" autoplay="">
   <source src = "https://github.com/HannekeWoudenberg/hannekewoudenberg.github.io/raw/master/collection/movie_HStestparticles_p102q118.mp4">
 </video>
 
-<video width ="3300" height="1500" controls loop="" muted ="" autoplay="">
+<video width ="825" height="375" controls loop="" muted ="" autoplay="">
   <source src = "https://github.com/HannekeWoudenberg/hannekewoudenberg.github.io/raw/master/collection/movie_HStestparticles_pqgrid.mp4">
 </video>
 
