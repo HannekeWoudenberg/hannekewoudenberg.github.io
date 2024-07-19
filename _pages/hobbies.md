@@ -1,6 +1,7 @@
 ---
 permalink: /hobbies/
 title: "Hobbies"
+classes: wide
 ---
 
 There is a multitude of things I like to do 
