@@ -1,6 +1,7 @@
 ---
 permalink: /helmi_streams/
 title: "The Helmi Streams in a Triaxial Galactic Potential"
+classes: wide
 ---
 
 These videos are part of a soon-to-be-submitted work that investigates the dynamical properties of the Helmi Streams, and uses those to constrain the Milky Way's Galactic potential and in particular the DM halo's shape and characteristic parameters, and its disc mass. These videos show a Helmi Streams-like progenitor in Galactic potentials with a triaxial NFW halo: 
