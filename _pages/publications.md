@@ -4,7 +4,7 @@ title: "Publications"
 classes: wide
 ---
 
-The most up-to-date overview of the work I've been involved in so far can be found via <a href="[url](https://ui.adsabs.harvard.edu/search/q=author%3A%22Woudenberg%2C%20Hanneke%20C.%22&sort=date%20desc%2C%20bibcode%20desc&p_=0)">ADS</a>. Otherwise, here is a list publications:
+The most up-to-date overview of the work I've been involved in so far can be found via [ADS](https://ui.adsabs.harvard.edu/search/q=author%3A%22Woudenberg%2C%20Hanneke%20C.%22&sort=date%20desc%2C%20bibcode%20desc&p_=0){:target='_blank'} <br/>. Otherwise, here is a list publications:
 
 ### First author
 
