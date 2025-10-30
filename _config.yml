@@ -17,7 +17,6 @@ title:                  Hanneke Woudenberg
 subtitle:               # nothing at the moment
 email:                  woudenberg@astro.rug.nl
 description:            Personal website of Hanneke Cornelia Woudenberg. 
-twitter_username:       hcwoudenberg
 github_username:        HannekeWoudenberg
 minimal_mistakes_skin:  dark
 search:                 true
@@ -62,7 +61,7 @@ plugins:
 author:
   name   : "Hanneke Cornelia Woudenberg"
   avatar : "/collection/bio-photo.jpg"
-  bio    : "I'm a second year PhD student in Galactic Archaeology and Dynamics at the Kapteyn Astronomical Institute in Groningen, the Netherlands."
+  bio    : "I'm a fourth year PhD student in Galactic Archaeology and Dynamics at the Kapteyn Astronomical Institute in Groningen, the Netherlands."
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
