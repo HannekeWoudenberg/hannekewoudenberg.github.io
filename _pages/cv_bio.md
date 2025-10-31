@@ -10,7 +10,7 @@ My academic CV is available here:
 <html lang="fr">
 <head>
 <!-- note the meta tag -->
-<meta http-equiv="refresh" content="0; url=http://hannekewoudenberg/collection/Academic_CV_publications_separate.pdf" />
+<meta http-equiv="refresh" content="0; url=http://hannekewoudenberg/Academic_CV_publications_separate.pdf" />
   <meta charset="utf-8">
   <title>Academic CV Hanneke Cornelia Woudenberg</title>
 </head>
