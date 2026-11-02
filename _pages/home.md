@@ -4,4 +4,4 @@ title: "Welcome!"
 classes: wide
 ---
 
-Hi! I am a fourth year PhD student at the [Kapteyn Astronomical Institute](https://www.rug.nl/research/kapteyn/?lang=en) in Groningen, the Netherlands, working with [Amina Helmi](https://www.astro.rug.nl/~ahelmi/dev/) on Galactic Archaeology and Dynamics. I'm particularly interested in the dynamics of stellar streams and halo stars. Currently, I am working with an awesome suite of [constrained Local Group simulations](https://ewoudwempe.com/). 
+Hi! I am a postdoc working with [Sarah Pearson](http://drsarahpearson.com/)'s group at [DTU Space](https://www.space.dtu.dk/english). I am interested in the nature of dark matter, and study this by combining modelling of observations and inference from (constrained) cosmological simulations. I'm particularly interested in the dynamics of stellar streams and halo stars, and am also working with an awesome suite of [constrained Local Group simulations](https://ewoudwempe.com/). 
