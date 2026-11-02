@@ -16,7 +16,7 @@ The most up-to-date overview of the work I've been involved in so far can be fou
 
 ### First author - submitted
 
-1. 
+1. [Alignment of the Milky Way and M31 with their cosmic environment. New insights from constrained Local Group simulations ](https://ui.adsabs.harvard.edu/abs/2026arXiv260713005W/abstract){:target='_blank'} <br/> **Woudenberg, H.C.**;  Helmi, A.; Wempe, E.; Genina, A.; White, S.D.M.; Jasche, J.; and Lavaux, G. *submitted to Astronomy & Astrophysics*. arxiv:2607.13005 
 
 ### Other - accepted
 
@@ -24,11 +24,11 @@ The most up-to-date overview of the work I've been involved in so far can be fou
 
 2. [Chemical characterisation of small substructures in the local stellar halo](https://ui.adsabs.harvard.edu/abs/2025arXiv250217353D/abstract){:target='_blank'} <br/> Dodd, E.; Matsuno, T.; Helmi, A.; Balbinot, E.; Callingham, T.M.; Starkenburg, E.; **Woudenberg, H.C.**; and Ruiz-Lara, T.  *Astronomy and Astrophysics*, vol. 700, 2025. doi: 10.1051/0004-6361/202554252
 
-3. [The metal-poor tail of the APOGEE survey. I. Uncovering [Fe/H] < -2.5 stars from the inner Galaxy to the Magellanic Clouds](https://www.aanda.org/articles/aa/full_html/2025/12/aa56198-25/aa56198-25.html){:target='_blank'} <br/> Montelius, M.; Starkenburg, E.; **Woudenberg, H.C.**; Angrilli Muglia, A.; Ardern-Arentsen, A.; Viswanathan, A.; Byström, A.; Helmi, A.; Martin, N.; Matsuno, T.; Navarrete, C.; and Navarro, J. *Astronomy and Astrophysics*, vol. 704, 2025. doi: 10.1051/0004-6361/202556198
+3. [The metal-poor tail of the APOGEE survey. I. Uncovering Fe/H < -2.5 stars from the inner Galaxy to the Magellanic Clouds](https://www.aanda.org/articles/aa/full_html/2025/12/aa56198-25/aa56198-25.html){:target='_blank'} <br/> Montelius, M.; Starkenburg, E.; **Woudenberg, H.C.**; Angrilli Muglia, A.; Ardern-Arentsen, A.; Viswanathan, A.; Byström, A.; Helmi, A.; Martin, N.; Matsuno, T.; Navarrete, C.; and Navarro, J. *Astronomy and Astrophysics*, vol. 704, 2025. doi: 10.1051/0004-6361/202556198
 
 4. [Evidence of a massive accretion event 1.8 billion years before the Gaia-Sausage-Enceladus merger](https://www.nature.com/articles/s41550-026-02931-5){:target='_blank'} <br/> Massari, D.; Zerbinati, C.; Fanelli, C.; Helmi, A.; Ceccarelli, E.; Aguado-Agelet, F.; Cassisi, S.; Wempe, E.; Monelli, M.; Bellini, A.; Callingham, T.; **Woudenberg, H.C.**; Cohen, R.; Gallart, C.; Pancino, E.; Saracino, S.; Salaris, M.; and Mucciarelli, A. *Nature Astronomy*, vol. 10, 2026. doi: 10.1038/s41550-026-02931-5
 
-5. [](https://ui.adsabs.harvard.edu/abs/2026arXiv261041731B/abstract){:target='_blank'} <br/>  Bayer, M.; Starkenburg, E.; Zwerver, A.; McKibben, F.; Bohak, M.; Martin, N.F.; Dodd, E.; **Woudenberg, H.C.**; Thomas, G.F.; Helmi, A.; and Navarro, J.F. *Astronomy and Astrophysics, coming soon.* 
+5. [The Pristine Survey. XXX. Mapping substructures in the inner and outer halo with blue horizontal branch stars ](https://ui.adsabs.harvard.edu/abs/2026arXiv261041731B/abstract){:target='_blank'} <br/>  Bayer, M.; Starkenburg, E.; Zwerver, A.; McKibben, F.; Bohak, M.; Martin, N.F.; Dodd, E.; **Woudenberg, H.C.**; Thomas, G.F.; Helmi, A.; and Navarro, J.F. *Astronomy and Astrophysics, coming soon.* 
 
 ### Other - submitted
 
