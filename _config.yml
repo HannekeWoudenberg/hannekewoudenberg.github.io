@@ -61,11 +61,11 @@ plugins:
 author:
   name   : "Hanneke Cornelia Woudenberg"
   avatar : "/collection/bio-photo.jpg"
-  bio    : "I'm a fourth year PhD student in Galactic Archaeology and Dynamics at the Kapteyn Astronomical Institute in Groningen, the Netherlands."
+  bio    : "I'm a postdoc at DTU Space, Denmark, interested in dark matter, dynamics, stellar streams, and simulations!"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:woudenberg@astro.rug.nl"
+      url: "mailto:hcowo@dtu.dk"
     - label: "ORCID"
       icon: "fab fa-fw fa-orcid"
       url: "https://orcid.org/0000-0003-4314-5632"
@@ -83,7 +83,7 @@ footer:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:woudenberg@astro.rug.nl"
+      url: "mailto:hcowo@dtu.dk"
     - label: "ORCID"
       icon: "fab fa-fw fa-orcid"
       url: "https://orcid.org/0000-0003-4314-5632"
