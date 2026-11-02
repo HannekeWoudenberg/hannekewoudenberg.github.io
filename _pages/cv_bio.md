@@ -3,7 +3,7 @@ permalink: /cv_bio/
 title: "Biography and CV"
 classes: wide
 ---
-I will soon start my postdoc with [Sarah Pearson](http://drsarahpearson.com/) at [DTU Space](https://www.space.dtu.dk/english) in Copenhagen, Denmark!
+I just started my postdoc with [Sarah Pearson](http://drsarahpearson.com/) at [DTU Space](https://www.space.dtu.dk/english) in Copenhagen, Denmark!
 I did my PhD in Astronomy at the [Kapteyn Astronomical Institute](https://www.rug.nl/research/kapteyn/?lang=en) in Groningen, the Netherlands, working with [Amina Helmi](https://www.astro.rug.nl/~ahelmi/dev/) on Galactic Archaeology and Dynamics. I did all of my undergraduate studies at the University of Groningen, starting with a bachelor's degree in Astronomy, followed by a year of Art History and finally a master's degree in Astronomy. 
 
 My academic CV is available [here (click to download)](https://hannekewoudenberg.github.io/Academic_CV_publications_separate.pdf).
