@@ -13,14 +13,21 @@ There is a multitude of things I like to do
 - **learning Italian** 
 - **hiking** mountains are awesome!
 
-<figure>
-  <img src="{{ '/collection/tree_aligned_normalised.gif' | relative_url }}"
-       alt="Time-lapse of the Book Tree drawing taking shape"
-       width="400" style="max-width:100%; height:auto;">
-  <figcaption>This shows my progress of drawing the Book Tree :)</figcaption>
-</figure>
+<div style="display:flex; gap:1.5rem; flex-wrap:wrap; align-items:flex-start;">
 
-<video width ="400" height="565" controls loop="" muted ="" autoplay="">
-  <source src = "https://github.com/HannekeWoudenberg/hannekewoudenberg.github.io/raw/master/collection/coffee_experiment_balanced_compressed_more.mp4">
-</video>
-<sup><sub>This video shows my progress of drawing the Coffee Poster :).</sub></sup>
+  <figure style="flex:1 1 300px; max-width:400px; margin:0;">
+    <img src="{{ '/collection/tree_aligned_normalised.gif' | relative_url }}"
+         alt="Time-lapse of the Book Tree drawing taking shape"
+         style="width:100%; height:auto; display:block;">
+    <figcaption>This shows my progress of drawing the Book Tree :)</figcaption>
+  </figure>
+
+  <figure style="flex:1 1 300px; max-width:400px; margin:0;">
+    <video controls loop muted autoplay playsinline
+           style="width:100%; height:auto; display:block;">
+      <source src="{{ '/collection/coffee_experiment_balanced_compressed_more.mp4' | relative_url }}" type="video/mp4">
+    </video>
+    <figcaption>This shows my progress of drawing the Coffee Poster :)</figcaption>
+  </figure>
+
+</div>
