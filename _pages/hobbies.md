@@ -13,12 +13,14 @@ There is a multitude of things I like to do
 - **learning Italian** 
 - **hiking** mountains are awesome!
 
-<video width ="600" height="723" controls loop="" muted ="" autoplay="">
-  <source src = "https://github.com/HannekeWoudenberg/hannekewoudenberg.github.io/raw/master/collection/tree_aligned_normalised.gif">
-</video>
-<sup><sub>This video shows my progress of drawing the Book Tree :)</sub></sup>
+<figure>
+  <img src="{{ '/collection/tree_aligned_normalised.gif' | relative_url }}"
+       alt="Time-lapse of the Book Tree drawing taking shape"
+       width="400" style="max-width:100%; height:auto;">
+  <figcaption>This shows my progress of drawing the Book Tree :)</figcaption>
+</figure>
 
-<video width ="800" height="1131" controls loop="" muted ="" autoplay="">
+<video width ="400" height="565" controls loop="" muted ="" autoplay="">
   <source src = "https://github.com/HannekeWoudenberg/hannekewoudenberg.github.io/raw/master/collection/coffee_experiment_balanced_compressed.mp4">
 </video>
 <sup><sub>This video shows my progress of drawing the Coffee Poster :).</sub></sup>
